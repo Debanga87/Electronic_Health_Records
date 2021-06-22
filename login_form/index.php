@@ -19,7 +19,7 @@
     <input type="submit" name="submit">
   </form>
 </div>
-  <div> 
+  <div align="center"> 
     <a href='display.php'>Check entries</a><br>
   </div>
 
