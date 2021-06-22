@@ -1,2 +1,3 @@
 # Login-Form
-Simple login form using html, php, MySql and some jquery.
+Simple login form using html, php, MySql and jquery.<br>
+
